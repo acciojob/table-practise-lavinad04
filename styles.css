@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+#eg1{
+	background-color: yellow;
+	table-border: 1px;
+	border-block-color: black;
+}
