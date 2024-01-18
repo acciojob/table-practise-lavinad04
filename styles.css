@@ -1,5 +1,8 @@
 /*  your css code here. If applicable */
 #eg1{
+	border: 1px;
+	border-block-color: black;
 	background-color : yellow;
 	border-style: solid;
+	
 }
